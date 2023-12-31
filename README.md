@@ -2,6 +2,7 @@
 
 # XPhisher
 A Phishing tool with many websites
+#### 📁 Project Archived 
 
 **Warning: Made for education purposes only, I am not liable for your actions.**
 
@@ -10,7 +11,7 @@ A Phishing tool with many websites
 ## Installation
 Run the following commands in your terminal
 ```bash
-git clone https://github.com/CyberTitus/XPhisher.git
+git clone https://github.com/AbdulRKB/XPhisher.git
 cd XPhisher
 bash main.sh
 ```
